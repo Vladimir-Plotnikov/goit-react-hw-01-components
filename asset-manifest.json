@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vladimir-Plotnikov/goit-react-hw-01-components/static/css/main.d0eaa90d.css",
-    "main.js": "/Vladimir-Plotnikov/goit-react-hw-01-components/static/js/main.ae0317df.js",
-    "index.html": "/Vladimir-Plotnikov/goit-react-hw-01-components/index.html",
-    "main.d0eaa90d.css.map": "/Vladimir-Plotnikov/goit-react-hw-01-components/static/css/main.d0eaa90d.css.map",
-    "main.ae0317df.js.map": "/Vladimir-Plotnikov/goit-react-hw-01-components/static/js/main.ae0317df.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.d0eaa90d.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.ae0317df.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.d0eaa90d.css.map": "/goit-react-hw-01-components/static/css/main.d0eaa90d.css.map",
+    "main.ae0317df.js.map": "/goit-react-hw-01-components/static/js/main.ae0317df.js.map"
   },
   "entrypoints": [
     "static/css/main.d0eaa90d.css",
