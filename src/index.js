@@ -1,9 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { App } from 'components/App';
+import App from './App'
 import './index.css';
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+const theRoot = document.querySelector('#root');
+
+
+ReactDOM.createRoot(theRoot).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
